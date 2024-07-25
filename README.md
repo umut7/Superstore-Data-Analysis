@@ -16,7 +16,7 @@ Data Loading and Inspection
   Visualizing the distribution of customer segments using a pie chart.
 
   
-##Sales Analysis
+## Sales Analysis
   Calculating total sales per customer segment.
   Visualizing sales per segment using a bar chart.
   
